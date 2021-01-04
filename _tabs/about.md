@@ -38,3 +38,10 @@ During the day I'm implementing Change Requests for our CRM software. At night I
 📫 You can contact me via
 - LinkedIn: <https://www.linkedin.com/in/maximilian-marx-121326183>
 - Mail: contact \[at\] maximilian-marx \[dot\] me
+
+## Badges
+#### Hack The Box
+<script src="https://www.hackthebox.eu/badge/3453"></script>
+
+#### TryHackMe
+<script src="https://tryhackme.com/badge/33188"></script>
