@@ -37,4 +37,4 @@ During the day I'm implementing Change Requests for our CRM software. At night I
 
 📫 You can contact me via
 - LinkedIn: <https://www.linkedin.com/in/maximilian-marx-121326183>
-- Mail: hello-maximilianmarx \[at\] protonmail \[dot\] de
+- Mail: contact \[at\] maximilian-marx \[dot\] me

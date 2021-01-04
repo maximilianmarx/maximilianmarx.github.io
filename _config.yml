@@ -31,7 +31,7 @@ social:
   name: Maximilian Marx                  # it will shows as the copyright owner in Footer
   email: contact@maximilian-marx.me             # change to your email address
   links:
-    mailto:contact@maximilian-marx.me
+    #mailto:contact@maximilian-marx.me
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
     # - https://github.com/username       # change to your github homepage
