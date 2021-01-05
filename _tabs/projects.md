@@ -15,6 +15,6 @@ order: 6
 
 | Hackathons                    | Project Description        | Date       |
 |:------------------------------|:---------------------------|:-----------|
-| Digital Revolution by Vodafone and CGI | [Communication & Customer Experience:<br />Incident Management Concept for Vodafone Germany](https://maximilian-marx.me/posts//posts/hackathon-vodafone/) | March 2019  |
+| Digital Revolution by Vodafone and CGI | [Communication & Customer Experience:<br />Incident Management Concept for Vodafone Germany](https://maximilian-marx.me/posts/hackathon-vodafone/) | March 2019  |
 | #uppercode2019 by Tourismus Österreich | Added Value and increased Customer Experience<br /> through a digital Travel Assistant | October 2019  |
 

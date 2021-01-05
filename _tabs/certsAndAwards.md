@@ -10,7 +10,7 @@ Here you can get insight on all certificates and awards I received.
 
 | Title                                            | Date                   | Certifier           | Topic 
 |:-------------------------------------------------|:-----------------------|:--------------------|:--------------------
-| OSCP (Offensive Security Certified <br />Professional) | 30th September 2020 | Offensive Security  | Penetration Testing
+| [OSCP (Offensive Security Certified <br />Professional)](https://maximilian-marx.me/posts/oscp-review/) | 30th September 2020 | Offensive Security  | Penetration Testing
 | Penetration Testing Course Advanced+             | 12th June 2020      | VirtualHackingLabs  | Penetration Testing
 | Penetration Testing Course Regular               | 12th June 2020      | VirtualHackingLabs  | Penetration Testing
 
