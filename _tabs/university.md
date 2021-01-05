@@ -17,7 +17,7 @@ Noteworthy is the combination between theoretical knowledge gained through lectu
 | Phase                        | Topic                                                                                                    | Grading    |
 |:-----------------------------|:---------------------------------------------------------------------------------------------------------|-----------:|
 | 2. Practical Phase           | [Generating a Relationships-Graph between Objects within <br /> a CRM Application](https://maximilian-marx.me/posts/university-project-2nd-practical-phase/)                        | 1,0 (96%)  |
-| 3. Practical Phase           | Conceptual Design and Implementation of a Cloud-Module <br /> for schedule planning with CRM integration | 1,0 (99%)  |
+| 3. Practical Phase           | [Conceptual Design and Implementation of a Cloud-Module <br /> for schedule planning with CRM integration](https://maximilian-marx.me/posts/university-project-3rd-practical-phase/) | 1,0 (99%)  |
 | Project studies              | TBA                                                                                                      | n/a        |
 | Bachelor's thesis            | TBA                                                                                                      | n/a        |
 
