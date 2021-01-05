@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info
-order: 10
+order: 7
 
 # The About page
 # v2.0
@@ -34,6 +34,9 @@ During the day I'm implementing Change Requests for our CRM software. At night I
 - Customer Experience and Innovation
 
 ⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
+
+🤝 Social Engagement
+- Rotaract Germany
 
 📫 You can contact me via
 - LinkedIn: <https://www.linkedin.com/in/maximilian-marx-121326183>

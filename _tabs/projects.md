@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fas fa-tasks
-order: 4
+order: 6
 ---
 
 ### University

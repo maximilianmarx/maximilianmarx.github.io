@@ -1,7 +1,7 @@
 ---
 title: OSCP Review
 author: Maximilian Marx
-date: 2021-01-03 11:33:00 +0800
+date: 2021-01-02 13:37:00 +0100
 categories: [Certificates]
 tags: [Review, Penetration Testing]
 math: true

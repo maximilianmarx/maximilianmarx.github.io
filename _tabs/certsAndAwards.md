@@ -1,7 +1,7 @@
 ---
 title: Certificates
 icon: fas fa-certificate
-order: 3
+order: 5
 ---
 
 Here you can get insight on all certificates and awards I received.

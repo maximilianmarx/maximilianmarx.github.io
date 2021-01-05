@@ -83,7 +83,7 @@ theme_mode:   dark
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 5
 
 kramdown:
   syntax_highlighter: rouge

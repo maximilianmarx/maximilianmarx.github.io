@@ -1,7 +1,7 @@
 ---
 title: University
 icon: fas fa-university
-order: 2
+order: 4
 ---
 I'm currently studying Software Engineering (B.Sc.) at the THM (Technische Hochschule Mittelhessen University of Applied Sciences) and StudiumPlus in the 5th semester.
 The colloquium is at the beginning of 2022.

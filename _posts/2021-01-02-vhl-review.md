@@ -1,7 +1,7 @@
 ---
 title: VirtualHackingLabs Review
 author: Maximilian Marx
-date: 2020-12-20 18:33:00 +0100
+date: 2021-01-02 18:33:00 +0100
 categories: [Certificates]
 tags: [Review, Penetration Testing]
 math: true
@@ -28,3 +28,6 @@ I booked the 3 Month Pass, but was done with all machines and Report after one m
 
 ## Summary
 Overall I enjoyed the lab and course materials offered by VHL. Unfortunately there is no "real" community behind VHL. But there is one Discord server I'd recommend joining: **VHL**.
+
+### Sources
+- Banner: <https://www.virtualhackinglabs.com/wp-content/uploads/2016/11/twitter_card.jpg>
