@@ -16,7 +16,7 @@ Check the end for a children's book recommendation or a YouTube video which expl
 
 Today a close friend of mine and I went for a walk around the park. While it was not the purpose for the meeting, my friend told me about the tough times he's currently going through and seemingly insuperable problems.
 
-When we got back from the walk, I sat down and thought about how I usually tackle small and apparent "indomitable" problems. It was weird, because personally, I thought it's clear that if we face problems that are too big to overcome in one go, we divide them into smaller but solvable problems and then tackle those.
+When we got back from the walk, I sat down and thought about how I usually tackle small and apparently "indomitable" problems. It was weird, because personally, I thought it's clear that if we face problems that are too big to overcome in one go, we divide them into smaller but solvable problems and then tackle those.
 
 This rational thinking has most likely been biased, since I'm currently in a rather stress-free phase. So I tried to loose myself from that attitude and to abstract more.
 
@@ -28,7 +28,7 @@ If a problem occures that we cannot influence, then that is both *good* and *bad
 
 Interestingly, if on the other hand, a problem occurs that we can influence, then this is also both good and bad. Good because you can change the outcome, bad because you have to do something about it.
 
-We make thousands of decisions every day. This will most likely collapse within a blink of an eye if we do not prioritize continuously through out the day. Same goes for problems. There are multiple factors to consider when we prioritize. And there is also at least the same amount of tools to rank and categorize problems regarding their priority (most famously the Eisenhower principle). How you prioritize is something you have to decide for your own.
+We make thousands of decisions every day. This will most likely collapse within a blink of an eye if we do not prioritize continuously throughoutly. Same goes for problems. There are multiple factors to consider when we prioritize. And there is also at least the same amount of tools to rank and categorize problems regarding their priority (most famously the Eisenhower principle). How you prioritize is something you have to decide for your own.
 
 Once you prioritized your controllable problems, you will still face one final dichotomy:
 - Problems that are too big to be solved in one go

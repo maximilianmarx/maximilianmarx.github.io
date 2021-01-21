@@ -9,9 +9,8 @@ mermaid: true
 image: /assets/img/studiumplus.svg
 ---
 
+> Will be updated soon!
 
 ![img-description](/assets/img/university-3rd-practical-phas.gif){: width="400"}_Small glimbse of the project_
 
 
-### Sources
-- Banner: <https://www.virtualhackinglabs.com/wp-content/uploads/2016/11/twitter_card.jpg>
