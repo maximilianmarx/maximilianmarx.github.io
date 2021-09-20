@@ -47,7 +47,7 @@ Within the blog post of Matt he goes into great detail on how to use reflection 
 
 # Demo
 
-We can modify the aforementioned PowerShell script using the technique described by Matt Graeber in order to be completely fileless.
+We can modify the aforementioned PowerShell script using the technique described by Matt Graeber in order to be completely fileless (the script can be found on my [**GitHub**](https://github.com/maximilianmarx/shellcode-injection/blob/main/FilelessPSInject.ps1)).
 If we execute the modified script, we'll see that it still works and we get a reverse shell:
 
 ![img-description](/assets/img/fileless-demonstration.gif)_Proof-of-Concept fileless process injection_
@@ -56,6 +56,7 @@ If we analyze the script with Process Explorer again, we see that not a single f
 ![img-description](/assets/img/fileless-pe-nocreate.png)_No Files created_
 
 ### References
+- <https://github.com/maximilianmarx/shellcode-injection/>
 - <https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-1>
 - <https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-2>
 - <https://devblogs.microsoft.com/scripting/use-powershell-to-interact-with-the-windows-api-part-3>
