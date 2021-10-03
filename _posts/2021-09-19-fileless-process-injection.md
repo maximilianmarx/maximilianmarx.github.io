@@ -1,5 +1,5 @@
 ---
-title: "Malware: Living off the land - creating fileless PowerShell malware"
+title: "Malware: Living off the land - Creating fileless PowerShell malware"
 author: Maximilian Marx
 date: 2021-09-19 12:08:00 +0100
 categories: [Malware Development]
